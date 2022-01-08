@@ -1,5 +1,6 @@
 # Catch-the-candy
 ## 졸업전시회 팀작품
+https://www.youtube.com/watch?v=vcJvQrc6k_w
 사용 프로그램 : Processing, Arduino <br>
 사용 도구 : 빔프로젝터, kinect v1, 아두이노(조도센서), 바구니 2개 <br>
 <br>
